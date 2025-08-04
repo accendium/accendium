@@ -19,7 +19,7 @@ I'm currently building **play.accendium.co**, a Minecraft SMP and minigame netwo
 - **Gaming Stats:**
     - **Marvel Rivals:** Peak Grandmaster 1
     - **Overwatch:** Peak Diamond 1
-    - **Hypixel Skyblock:** 11 Billion Net Worth
+    - **Hypixel Skyblock:** 11 Billion Coin Net Worth
 
 ### **🔗 Connect with Me**
 
