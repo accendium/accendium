@@ -26,4 +26,8 @@ I'm currently building **play.accendium.co**, a Minecraft SMP and minigame netwo
 - **Website:** [accendium.co](https://accendium.co/)
 - **Contact:** contact@accendium.co
 
+### **📋 Git Stats**
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=accendium)](https://git.io/streak-stats)
+
 ---
