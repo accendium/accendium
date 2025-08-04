@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi there 👋, I am Accendium.
 
-<!--
-**accendium/accendium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer and creator who loves building things. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **🚀 What I'm Building**
+
+I'm currently building **play.accendium.co**, a Minecraft SMP and minigame network.
+- **Tech Stack:** Java, Velocity, PaperMC, Docker, Kubernetes
+
+### **💻 My Skillset**
+
+- **Languages:** `Java` `Python` `C++` `TypeScript`
+- **Specialization:** 2+ years in Minecraft plugin & mod development.
+
+### **⚡ Fun Facts**
+- **Musician/Producer:** Musician/producer for over 9 years.
+- **Gaming Stats:**
+    - **Marvel Rivals:** Peak Grandmaster 1
+    - **Overwatch:** Peak Diamond 1
+    - **Hypixel Skyblock:** 11 Billion Net Worth
+
+### **🔗 Connect with Me**
+
+- **Website:** [accendium.co](https://accendium.co/)
+- **Contact:** contact@accendium.co
+
+---
