@@ -28,7 +28,7 @@ I'm currently building **play.accendium.co**, a Minecraft SMP and minigame netwo
 
 ### **📋 GitHub Stats**
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=accendium&theme=tokyonight" alt="GitHub streak" />
 </p>
 
