@@ -6,8 +6,8 @@ I am a developer and creator who loves building things.
 
 ### **🚀 What I'm Building**
 
-I'm currently building **play.accendium.co**, a Minecraft SMP and minigame network.
-- **Tech Stack:** Java, Velocity, PaperMC, Docker, Kubernetes
+I'm currently building **accendium.co**, my personal website.
+- **Tech Stack:** TypeScript, Tailwind, Next.js, Vercel
 
 ### **💻 My Skillset**
 
