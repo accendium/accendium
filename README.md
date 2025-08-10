@@ -26,10 +26,4 @@ I'm currently building **accendium.co**, my personal website.
 - **Website:** [accendium.co](https://accendium.co/)
 - **Contact:** contact@accendium.co
 
-### **📋 GitHub Stats**
-
-<p align="left">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=accendium&theme=tokyonight" alt="GitHub streak" />
-</p>
-
 ---
