@@ -15,7 +15,7 @@ I'm currently building **accendium.co**, my personal website.
 - **Specialization:** 2+ years in Minecraft plugin & mod development.
 
 ### **⚡ Fun Facts**
-- **Musician/Producer:** Musician/producer for 9 years.
+- **Musician/Producer:** Musician/producer for 9 years. ([soundcloud](https://soundcloud.com/accendium))
 - **Gaming Stats:**
     - **Marvel Rivals:** Peak Grandmaster 1
     - **Overwatch:** Peak Diamond 1
