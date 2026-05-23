@@ -32,25 +32,8 @@ www.youtube.com##a#endpoint.yt-simple-endpoint.style-scope.ytd-guide-entry-rende
 www.reddit.com##.border-r-neutral-border.s\:border-r-sm.border-solid.border-0.m\:block.hidden.order-first.isolate.theme-rpl.left-sidebar
 www.reddit.com##.block.xs\:pb-0.pb-xl.xs\:max-w-\[316px\].xs\:w-\[316px\].w-full.min-w-0.right-sidebar
 
-! Should block the fucking "sign in with google" thing, so annoying (https://stackoverflow.com/questions/69004177/blocking-sign-in-with-google-iframes-using-ublock-origin#69004178)
-! ||accounts.google.com/gsi/iframe
-! ##iframe[src^="http://accounts.google.com/gsi/iframe"]
-! ##iframe[src^="https://accounts.google.com/gsi/iframe"]
-! ##iframe[src^="//accounts.google.com/gsi/iframe"]
-
-! A second attempt at properly blocking the shitty "sign in with google" thing, since the one above didn't work completely (https://support.mozilla.org/en-US/questions/1393427)
-!||id.google.com^
-!||accounts.google.com/gsi/$3p
-!||smartlock.google.com^
-!||accounts.google.com/gsi/iframe
-
 ! Nov 19, 2025 Hides YouTube end screen of recommended videos
 www.youtube.com##.ytp-fullscreen-grid-stills-container
-
-! Jan 9, 2026 Hide YouTube "Members only" and "Members first" videos (updated with more resilient selector)
-! May 10, 2026 OUTDATED: No longer works as YouTube changed the shape of the HTML
-! www.youtube.com##ytd-rich-item-renderer:has(badge-shape[aria-label="Members only"])
-! www.youtube.com##ytd-rich-item-renderer:has(badge-shape[aria-label="Members first"])
 
 ! May 10, 2026 Fixed: Hide YouTube "Members only" and "Members first" videos
 www.youtube.com##ytd-rich-item-renderer:has(badge-shape.ytBadgeShapeCommerce)
